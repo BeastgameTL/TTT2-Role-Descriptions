@@ -1,0 +1,17 @@
+{
+    "title": "[TTT2] Role Descriptions [FEATURE]",
+    "type": "gamemode",
+    "tags": [
+        "roleplay",
+        "fun"
+    ],
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*",
+        "*.git",
+        "*.txt",
+        "*.md"
+    ],
+    "description": "You have to use TTT2 in order to use this addon. Adds a description tab for different roles. Currently only available in english. "
+}
